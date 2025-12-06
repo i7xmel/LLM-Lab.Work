@@ -57,9 +57,9 @@ This repository contains 8 practical programs implementing Large Language Model 
 
 **Screenshot**
 
-<img width="849" height="383" alt="image" src="https://github.com/user-attachments/assets/474c6f28-5fd2-4ed4-b123-5a68b5329d54" />
-<img width="856" height="225" alt="image" src="https://github.com/user-attachments/assets/d13e3a25-5b91-4a08-a279-df5f2f96dbcb" />
-<img width="900" height="707" alt="image" src="https://github.com/user-attachments/assets/cf52b0a4-8ae6-4db8-b026-aab43c8e5667" />
+<img width="549" height="183" alt="image" src="https://github.com/user-attachments/assets/474c6f28-5fd2-4ed4-b123-5a68b5329d54" />
+<img width="556" height="90" alt="image" src="https://github.com/user-attachments/assets/d13e3a25-5b91-4a08-a279-df5f2f96dbcb" />
+<img width="400" height="207" alt="image" src="https://github.com/user-attachments/assets/cf52b0a4-8ae6-4db8-b026-aab43c8e5667" />
 
 ---
 
@@ -74,8 +74,8 @@ This repository contains 8 practical programs implementing Large Language Model 
 **Screenshot**
 
 <img width="449" height="178" alt="image" src="https://github.com/user-attachments/assets/f4556771-9cf6-4126-b8da-46da36930126" />
-<img width="818" height="375" alt="image" src="https://github.com/user-attachments/assets/436600c2-19cc-46b7-acf2-2f87c14a47ed" />
-<img width="861" height="334" alt="image" src="https://github.com/user-attachments/assets/b7cce766-1002-4ff8-b1de-780dee922327" />
+<img width="518" height="75" alt="image" src="https://github.com/user-attachments/assets/436600c2-19cc-46b7-acf2-2f87c14a47ed" />
+<img width="561" height="34" alt="image" src="https://github.com/user-attachments/assets/b7cce766-1002-4ff8-b1de-780dee922327" />
 
 ---
 
@@ -89,8 +89,8 @@ This repository contains 8 practical programs implementing Large Language Model 
 
 **Screenshot**
 
-<img width="841" height="466" alt="image" src="https://github.com/user-attachments/assets/9302b37b-6a99-47c8-8e7f-01bf1c4ebef5" />
-<img width="808" height="510" alt="image" src="https://github.com/user-attachments/assets/b6f12d29-ba19-49a6-97cb-da088f6ea04d" />
+<img width="541" height="166" alt="image" src="https://github.com/user-attachments/assets/9302b37b-6a99-47c8-8e7f-01bf1c4ebef5" />
+<img width="508" height="210" alt="image" src="https://github.com/user-attachments/assets/b6f12d29-ba19-49a6-97cb-da088f6ea04d" />
 
 ---
 
@@ -104,8 +104,8 @@ This repository contains 8 practical programs implementing Large Language Model 
 
 **Screenshot**
 
-<img width="845" height="579" alt="image" src="https://github.com/user-attachments/assets/89a3f832-469f-4799-90a9-2d660ffd6131" />
-<img width="781" height="540" alt="image" src="https://github.com/user-attachments/assets/182df95b-0ab3-4152-a4c3-bec27a467980" />
+<img width="545" height="279" alt="image" src="https://github.com/user-attachments/assets/89a3f832-469f-4799-90a9-2d660ffd6131" />
+<img width="481" height="240" alt="image" src="https://github.com/user-attachments/assets/182df95b-0ab3-4152-a4c3-bec27a467980" />
 
 ---
 
