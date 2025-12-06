@@ -28,8 +28,8 @@ This repository contains 8 practical programs implementing Large Language Model 
 
 **Screenshot**
 
-<img width="611" height="289" alt="image" src="https://github.com/user-attachments/assets/8feabcb6-c3e1-46c7-8a79-a9711b1c7027" />
-<img width="524" height="361" alt="image" src="https://github.com/user-attachments/assets/4b3ef3c1-4ab9-4e7b-98a8-ffad3a304623" />
+<img width="611" height="349" alt="image" src="https://github.com/user-attachments/assets/8feabcb6-c3e1-46c7-8a79-a9711b1c7027" />
+<img width="524" height="431" alt="image" src="https://github.com/user-attachments/assets/4b3ef3c1-4ab9-4e7b-98a8-ffad3a304623" />
 
 ---
 
